@@ -1,0 +1,7 @@
+## **Comparative Analysis of Bathroom Contamination from Electric Hand Dryers vs. Paper Towels**
+
+Authors: Jack L. Picton, A.N. Norman, J.D. Sexton, A.D. Vance, K.A. Reynolds
+
+GitHub Repository: <https://github.com/anormanaz/hand-drying-project-1.0>
+
+Supplementary Website: <https://anormanaz.github.io/hand-drying-project-1.0/>

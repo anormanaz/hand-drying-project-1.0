@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+~$Excel 1.0 data summary.xlsx
+Excel 1.0 data summary.xlsx
+~$LowTiter.xlsx
+LowTiter.xlsx
+/.quarto/
+
+**/*.quarto_ipynb

@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Comparative Analysis of Bathroom Contamination from Electric Hand Dryers vs. Paper Towels"
+  navbar:
+    right:
+      - icon: github
+        href: "https://github.com/anormanaz/hand-drying-project-1.0"
+    left:
+      - text: QMRA - Surface Transmission
+        href: "1.0-QMRA-surface.qmd"
+
+
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    code-overflow: wrap
+
+
+execute:
+  freeze: auto
